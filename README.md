@@ -1,7 +1,5 @@
 # ass11Note
 Creating and saving Note as a Bussiness Owner
-# ass11Note
-Creating and saving Note as a Bussiness Owner
 
 #Note Taker Application
 
